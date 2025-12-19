@@ -16,7 +16,6 @@ const HomePage = ({ user, onNavigate, onLogout }: HomePageProps) => {
         <div className="container mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="GraduationCap" size={32} className="text-primary" />
-            <h1 className="text-2xl font-bold">EduPlatform</h1>
           </div>
           {user ? (
             <div className="flex items-center gap-4">
