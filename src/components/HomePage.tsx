@@ -81,15 +81,15 @@ const HomePage = ({ user, onNavigate, onLogout }: HomePageProps) => {
           <h3 className="text-3xl font-bold mb-4">Почему выбирают нас</h3>
           <div className="grid md:grid-cols-4 gap-6 mt-8">
             <div>
-              <div className="text-4xl font-bold text-primary mb-2">500+</div>
+              <div className="text-4xl font-bold text-primary mb-2">5</div>
               <p className="text-muted-foreground">Активных курсов</p>
             </div>
             <div>
-              <div className="text-4xl font-bold text-primary mb-2">10K+</div>
+              <div className="text-4xl font-bold text-primary mb-2">10</div>
               <p className="text-muted-foreground">Студентов</p>
             </div>
             <div>
-              <div className="text-4xl font-bold text-primary mb-2">95%</div>
+              <div className="text-4xl font-bold text-primary mb-2">60%</div>
               <p className="text-muted-foreground">Успешность</p>
             </div>
             <div>
